@@ -1,2 +1,1 @@
-# sd-festival
-Practicing building a simple, small web site
+# 67th Colorado Square and Round Dance Festival
