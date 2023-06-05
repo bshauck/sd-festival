@@ -1,9 +1,2 @@
-# 67th Colorado Square and Round Dance Festival
-
-## Schedule
-
-## Callers and Cuers
-
-## Venue
-
-Put a picture
+# this is stupid
+## but a new md anyway
