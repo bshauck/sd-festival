@@ -22,3 +22,32 @@
     color: white;
     pointer-events: none;
 }
+
+/* table spacing */
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid purple;
+  }
+
+  th,
+  td {
+    padding: 5px;
+    border-bottom: 1px solid purple;
+    border-right: 1px solid purple;
+    text-align: center;
+}
+
+.bottomColHeader {
+    border-bottom: 3px solid purple;
+}
+
+.rightRowHeader {
+    border-right: 3px solid purple;
+}
+
+caption {
+    font-size: x-large;
+}
