@@ -15,16 +15,15 @@
         <a href="pictures.html">Pictures</a>
       </div>
 
-      <form>
+      <form method="post" action="/submit">
       <fieldset>
-
-      - Full name
-      - Address
-      - checkbox for having dinner
-      - textarea for dietary restrictions
-      - labels for all of the above
-      - Submit button
-
+        <legend>Registration form</legend>
+      <label>Full name: <input type="text" /></label>
+      <label>Address: <input type="text" /></label>
+      <label>Include Saturday dinner? <input type="checkbox" /></label>
+      <label>Note dietary restrictions: <textarea rows="5">
+      </textarea></label>
+      <button type="submit">Submit</button>
       </fieldset>
       </form>
 </body>
